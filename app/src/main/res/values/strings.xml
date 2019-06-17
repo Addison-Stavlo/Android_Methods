@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Guessing Game</string>
+    <string name="btn_text_submit">Submit</string>
+    <string name="btn_text_reset">Reset</string>
+    <string name="prompt">Guess the Number (0-100)</string>
+    <string name="low_guess">You Guessed Too Low!</string>
+    <string name="high_guess">You Guessed Too High!</string>
+    <string name="congrats">Congradulamafrickenlations!</string>
+    <string name="no_guess">You did not enter a guess...</string>
+</resources>
